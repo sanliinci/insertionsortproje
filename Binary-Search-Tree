@@ -10,8 +10,8 @@
    / \
   2   4
 
-5<7 (7'nin soluna yazılır.)
-1<5 (1 değeri hem 5'in soluna yazılır.)
+5<7 (5 değeri, 7'nin soluna yazılır.)
+1<5 (1 değeri, 5'in soluna yazılır.)
 0<1 (0 değeri, 1'in soluna yazılır.)
 8>7 (8 değeri, 7'nin sağına yazılır.)
 9>8 (9 değeri, 8'in sağına yazılır.)

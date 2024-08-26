@@ -1,0 +1,21 @@
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. rootu'un sağından y bulunur. Solundan z bulunur vb.
+     7
+    / \
+   5   8
+  / \   \
+ 1   6   9
+/   /
+0   3
+   / \
+  2   4
+7'nin sağındaki node'ların değerlerinin tümü 7'den büyük olmalı. 7'nin solundaki node'ların değerleri ise 7'den küçük olmalıdır.
+5<7 (7'nin soluna yazılır.)
+1<5 (1 değeri hem 5'in soluna yazılır.)
+0<1 (0 değeri, 1'in soluna yazılır.)
+8>7 (8 değeri, 7'nin sağına yazılır.)
+9>8 (9 değeri, 8'in sağına yazılır.)
+6>5 (6 değeri, 5'in sağına yazılır.)
+3<6 (3 değeri, 6'nın soluna yazılır.)
+2<3 (2 değeri, 3'ün soluna yazılır.)
+4>3 (4 değeri, 3'ün sağına yazılır.)

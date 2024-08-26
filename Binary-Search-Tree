@@ -9,7 +9,7 @@
 0   3
    / \
   2   4
-7'nin sağındaki node'ların değerlerinin tümü 7'den büyük olmalı. 7'nin solundaki node'ların değerleri ise 7'den küçük olmalıdır.
+
 5<7 (7'nin soluna yazılır.)
 1<5 (1 değeri hem 5'in soluna yazılır.)
 0<1 (0 değeri, 1'in soluna yazılır.)
